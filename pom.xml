@@ -4,7 +4,7 @@
   <artifactId>docker-jenkins-integration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  <finalName>Docker-jenkins-integration-sample</finalName>
+  <finalName>docker-jenkins-integration-sample</finalName>
   </build>
   <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
